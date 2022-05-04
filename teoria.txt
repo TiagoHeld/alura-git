@@ -1,0 +1,6 @@
+Inicializar Repositório ---> git init
+Adicionar arquivos  ---> git add ./
+Salvar mudanças no código -----> git commit -m ""
+Ver histórico ----> git log
+Ver historico em uma linha ----> git log --oneline
+Ver alterações do arquivo ---->  git log -p
