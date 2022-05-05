@@ -1,0 +1,11 @@
+Inicializar Repositório ---> git init
+Adicionar arquivos  ---> git add ./
+Salvar mudanças no código -----> git commit -m ""
+Ver histórico ----> git log
+Ver historico em uma linha ----> git log --oneline
+Ver alterações do arquivo ---->  git log -p
+Montar um Repositório puro ----> git innit --bare
+Verifica repositorios remotos ----> git remote
+git remote add local (endereço) ----> adiciona repositório remoto
+git remote -v ----> lista os repositorios remotos e seu respectivos endereços (fetch) - buscar dados (push) - enviar dados para o caminho
+renomear repositorio remoto -----> git remote rename origin local
