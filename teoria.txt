@@ -9,3 +9,4 @@ Verifica repositorios remotos ----> git remote
 git remote add local (endereço) ----> adiciona repositório remoto
 git remote -v ----> lista os repositorios remotos e seu respectivos endereços (fetch) - buscar dados (push) - enviar dados para o caminho
 renomear repositorio remoto -----> git remote rename origin local
+gardando as alterção para depois ----> git stash
